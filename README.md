@@ -46,14 +46,15 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3> Meu Desempenho no GitHub</h3>
+  <h3> *Meu Desempenho no GitHub*</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnerGabrii&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=A186B4&text_color=#FFF&border_radius=3&border_color=A186B4&icon_color=A186B4&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnerGabrii&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=A186B4&text_color=FFF&border_radius=3&border_color=A186B4&icon_color=A186B4&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/AnnerGabrii/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnerGabrii&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=A186B4&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=A186B4&count_private=true&langs_color_Java=8C4DB8&langs_color_JavaScript=822EBD" alt="Most Used Languages">
   </a>
 </div>
+ 
 
 #
 
@@ -62,3 +63,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnerGabrii/AnnerGabrii/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnnerGabrii/AnnerGabrii/output/github-contribution-grid-snake.svg">
 </picture>
+
