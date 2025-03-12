@@ -12,7 +12,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="[./src/study.gif](https://i.pinimg.com/originals/ed/f9/18/edf91820f45ec88c7dd99d689d36b7e8.gif)">
 
 <h3 align="left">Connect with me!</h3>
 
