@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá,+me+chamo+Anne!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A186B4&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ol%C3%A1,+me+chamo+Anne!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -16,9 +16,9 @@
 
 <h3 align="left">Entre em contato comigo pelo:</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFD700&color=000)](mailto:annegnrosa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFD700&color=000)](https://www.linkedin.com/in/anne-gabrielle-rosa-3b309b335)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FFD700&color=000)](https://github.com/AnnerGabrii)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A186B4&color=000)](mailto:annegnrosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A186B4&color=000)](https://www.linkedin.com/in/anne-gabrielle-rosa-3b309b335)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=A186B4&color=000)](https://github.com/AnnerGabrii)
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
@@ -48,10 +48,10 @@
 <div style="text-align: center;" align="center">
   <h3> *Meu Desempenho no GitHub*</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnerGabrii&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFD700&text_color=FFF&border_radius=3&border_color=FFD700&icon_color=FFD700&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnerGabrii&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=A186B4&text_color=FFF&border_radius=3&border_color=A186B4&icon_color=A186B4&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/AnnerGabrii/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnerGabrii&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFD700&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FFD700&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnnerGabrii&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=A186B4&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=A186B4&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
