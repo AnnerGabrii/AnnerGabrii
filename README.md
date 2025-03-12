@@ -44,7 +44,7 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3> *Meu Desempenho no GitHub*</h3>
+  <h3> Meu Desempenho no GitHub</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnnerGabrii&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=A186B4&text_color=FFF&border_radius=3&border_color=A186B4&icon_color=A186B4&theme=jolly" alt="GitHub stats">
 
