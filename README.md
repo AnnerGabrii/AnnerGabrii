@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Desenvolvedora de Software com formação técnica de Desenvolvimento de Sistemas pelo Instituto Federal do Triângulo Mineiro Campus Uberlândia Centro (IFTM). Tenho experiência prática em desenvolvimento mobile com React Native e JavaScript, além de conhecimento em SQL, bancos de dados, Java, Python e C++. Estou sempre em busca de aprendizado e novos desafios na área de tecnologia.</p>
+<p align="center">Desenvolvedora de Software com formação técnica de Desenvolvimento de Sistemas pelo Instituto Federal do Triângulo Mineiro Campus Uberlândia Centro (IFTM). Tenho experiência prática em desenvolvimento mobile com React Native e JavaScript, além de conhecimento em SQL, bancos de dados, Java e Python. Estou sempre em busca de aprendizado e novos desafios na área de tecnologia.</p>
 
 #
 
