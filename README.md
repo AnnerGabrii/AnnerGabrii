@@ -12,7 +12,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src=".src/header.png">
+<img align="right" alt="" height="190px" src="https://camo.githubusercontent.com/8b4fe338a03c65215703c7c951684f1ecd8f313f483eeb1328ce72e1d916c676/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65642f66392f31382f65646639313832306634356563383863376464393964363839643336623765382e676966">
 
 <h3 align="left">Connect with me!</h3>
 
